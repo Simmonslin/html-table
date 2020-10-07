@@ -1,0 +1,42 @@
+<html>
+<table>
+<tr>
+<th> </th>
+<th scope="col"> GA 單日票 </th>
+<th scope="col"> VIP 單日票 </th>
+</tr>
+<tr>
+<th scope="row"> First Round </th>
+<td> $3200 </td>
+<td> $4800 </td>
+</tr>
+<tr>
+<th scpe="row"> Second Round</th>
+<td> $3400 </td>
+<td> $5500> </td>
+</tr>
+</html>
+
+
+<html>
+<table>
+<tr>
+<th> </th>
+<th>9am </th>
+<th> 10am </th>
+<th>11am </th>
+<th>12am</th>
+</tr>
+<tr>
+<th> Monday </th>
+<td colspan="2> Geography</td>
+<td>Math</td>
+<td>ART</td>
+</tr>
+<tr>
+<th> Tuesday </th>
+<td colspan="3">GYM</td>
+<td> Tennis </td>
+</tr>
+</table>
+</html>
